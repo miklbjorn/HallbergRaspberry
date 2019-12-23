@@ -17,14 +17,14 @@ Jeg ved om du selv har tænkt tanken, Bjørn, med jeg ved, at du har både en Ra
 
 Her er [et par](https://www.raspberrypi.org/blog/pino-smart-sailing-boat/), der starter med at bygge uskyldigt barometer, og ender med en full fledged multichannel AIS plotter.
 
-En video med en (godt nok lidt hjemmelavet) (wireless vindmåler)[https://www.youtube.com/watch?v=32AcGe11G2M].
+En video med en (godt nok lidt hjemmelavet) [wireless vindmåler](https://www.youtube.com/watch?v=32AcGe11G2M).
 
 Og der er helt sikkert 200 andre projektideer :) Styresystem-wise [er der vidst også færdiglavede løsninger man kan lege med!](https://www.sailoog.com/openplotter)
 
 ## Brugbare dele
 Sjove dele at koble på kunne være:
-* En (Bosch BME280)[https://www.banggood.com/da/BME280-Digital-Sensor-Temperature-Humidity-Atmospheric-Pressure-Sensor-Module-p-1354769.html?gmcCountry=DK&currency=DKK&createTmp=1&utm_source=googleshopping&utm_medium=cpc_union&utm_content=xibei&utm_campaign=xibei-ssc-dk-all-0701-da&ad_id=359089913204&gclid=Cj0KCQiA6IHwBRCJARIsALNjViX9X3rJo1pqyWX19ZAgYpFPRds9vtnQwZLhvWmXVpbBRBCJh-stKmsaAoyzEALw_wcB&cur_warehouse=CN] der kan logge temperatur, tryk, og luftfugtighed
-* En (AIS receiver)[https://shop.wegmatt.com/products/daisy-hat-ais-receiver]
-* (GPS chip)[https://jentronic.dk/diverse-moduler/145-gps-modul.html?gclid=Cj0KCQiA6IHwBRCJARIsALNjViVxpAdCEBTLIQaif1F8Z2MSJZX-dJbKUcDC0KHUe0I53JZawXbTBHcaAtZOEALw_wcB]
-* En (360 grader målechip)[https://www.usdigital.com/products/encoders/absolute/magnetic/MA3], der kan indgå i en elektronisk vejrhane
+* En [Bosch BME280](https://www.banggood.com/da/BME280-Digital-Sensor-Temperature-Humidity-Atmospheric-Pressure-Sensor-Module-p-1354769.html?gmcCountry=DK&currency=DKK&createTmp=1&utm_source=googleshopping&utm_medium=cpc_union&utm_content=xibei&utm_campaign=xibei-ssc-dk-all-0701-da&ad_id=359089913204&gclid=Cj0KCQiA6IHwBRCJARIsALNjViX9X3rJo1pqyWX19ZAgYpFPRds9vtnQwZLhvWmXVpbBRBCJh-stKmsaAoyzEALw_wcB&cur_warehouse=CN) der kan logge temperatur, tryk, og luftfugtighed
+* En [AIS receiver](https://shop.wegmatt.com/products/daisy-hat-ais-receiver)
+* [GPS chip](https://jentronic.dk/diverse-moduler/145-gps-modul.html?gclid=Cj0KCQiA6IHwBRCJARIsALNjViVxpAdCEBTLIQaif1F8Z2MSJZX-dJbKUcDC0KHUe0I53JZawXbTBHcaAtZOEALw_wcB)
+* En [360 grader målechip](https://www.usdigital.com/products/encoders/absolute/magnetic/MA3), der kan indgå i en elektronisk vejrhane
 * Eller noget andet, der kunne være sjovt! 
